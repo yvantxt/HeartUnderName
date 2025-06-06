@@ -1,0 +1,12 @@
+# HealthBar Plugin by yvant_dev
+# discord trolleryvant
+
+healthbar:
+  enabled: true
+  show-for-npcs: false
+  format: "&c❤ %health% &7| &6%ping%⚡"
+
+# Placeholders supported:
+# %health% - shows player health (as integer)
+# %ping% - shows ping
+# You can also use any PlaceholderAPI placeholders.
