@@ -4,5 +4,5 @@ HeartUnderName is a lightweight Minecraft plugin that displays a customizable he
 
 
 # Made by:
-- Telegram: yvant_dev
+- Telegram: yvantx
 - Discord: trolleryvant
